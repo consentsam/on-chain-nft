@@ -32,7 +32,7 @@ A base contract is given here - `src/DappCampNFT.sol`. Use this contract to crea
 
 - Clone this repo
   ```
-  git clone CLONE_URL
+  git clone https://github.com/DappCamp-Assignments/73256149d24eefd1494aa70d65f4e7665ba99eb383b66ca7721e9f7f9290915a
   ```
 - Install the submodules
 
@@ -43,7 +43,7 @@ A base contract is given here - `src/DappCampNFT.sol`. Use this contract to crea
 - Create a new branch with your name. You can use the following command:
 
   ```
-  git checkout -b my-name
+  git checkout -b satyajeet-sindhiyani
   ```
 
 - Make changes to the `src/DappCampNFT.sol` file. The tests in `test/DappCampNFT.t.sol` should run successfully.
